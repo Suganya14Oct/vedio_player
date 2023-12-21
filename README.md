@@ -19,6 +19,5 @@ Created a model class, to get data
 From that model class all the datas were fetched and the task was completed.
 
 NOTE:  ALL THE IMAGES WERE COLEECTED RELATED TO THE DATAS. BUT VEDIOS RELATED TO THAT DATA WAS NOT FETCHED
-        
        INSTEAD SOME OTHER VEDIOS WERE FETCHED, TO THE ITEMS OF THE LIST RESPECTIVELY.
 
